@@ -1,0 +1,5 @@
+hello
+welcome to Python
+Python is a high level language
+
+hello Welcome to File handeling....
